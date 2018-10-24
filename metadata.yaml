@@ -1,11 +1,16 @@
 _repo: Travels-in-the-Interior-of-Brazil-Principally-through-the-northern-provinces-and-the-gold-and__58045
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58045-h/images/cover.jpg
 creator:
   author:
     agent_name: Gardner, George
     gutenberg_agent_id: '49748'
     url: http://www.gutenberg.org/2009/agents/49748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58045#Travels-in-the-Interior-of-Brazil-Principally-through-the-northern-provinces-and-the-gold-and_
 gutenberg_issued: '2018-10-08'
 gutenberg_type: Text
 identifiers:
